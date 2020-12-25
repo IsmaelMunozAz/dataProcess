@@ -1,5 +1,5 @@
 Scope:
-
+The scope of this predictor is to improve the quality of the result of diagnosis related to colonoscopies.
 
 Variables:
 
